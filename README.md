@@ -1,4 +1,4 @@
-## This is the git tutorials
+## This is the amazing git tutorials
 
 hello world
 
@@ -6,3 +6,5 @@ hello world
 
 
 ## okay this is awesome
+
+## kitkat is awesome
